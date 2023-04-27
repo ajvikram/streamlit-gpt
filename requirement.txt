@@ -1,0 +1,4 @@
+streamlit
+watchdog
+streamlit_option_menu
+gpt4all-j
